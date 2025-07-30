@@ -1,0 +1,5 @@
+train: /content/dataset_yolo/train/images
+val: /content/dataset_yolo/valid/images
+
+nc: 20
+names: ['Hello', 'Namaste', 'Yes', 'Thank You', 'Welcome', 'Sorry', 'Help', 'Stop', 'Bad', 'Water', 'Eat','I', 'Woman', 'Indian', 'Friend', 'Difficult', 'Teacher', 'Bye','Man', 'No']
